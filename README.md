@@ -1,6 +1,7 @@
 # Who Does the Ad Actually Move? Ad Incrementality on 14 Million Users
 
 **Yuran Sun** · Ph.D. Candidate, University of Florida · M.S. Statistics
+
 Data: [Criteo Uplift Prediction Dataset v2.1](https://huggingface.co/datasets/criteo/criteo-uplift) (13,979,592 users from randomized ad incrementality tests)
 
 This project measures how much a display ad campaign really changes what people do: whether they visit the advertiser's site and whether they buy. It goes from auditing the experiment, to estimating the effect of the campaign and of the ad itself, to breaking the effect down along the post-ad purchase journey, to deciding whom to target.
